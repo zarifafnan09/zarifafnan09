@@ -1,4 +1,4 @@
-![I am zarifafnan09](https://github.com/zarifafnan09/zarifafnan09/blob/main/code.png)
+![I am zarifafnan09]([https://github.com/zarifafnan09/zarifafnan09/blob/main/github_poster.jpg])
 
 <h1 align="center">Hi 👋, This is Zarif Afnan</h1>
 <h3 align="center">Web Developer | Tech Savvy | Speed Learner</h3>
