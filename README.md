@@ -1,4 +1,4 @@
-![I am zarifafnan09]([https://github.com/zarifafnan09/zarifafnan09/blob/main/github_poster.jpg])
+![I am zarifafnan09](https://github.com/zarifafnan09/zarifafnan09/blob/main/github_poster.jpg?raw=true)
 
 <h1 align="center">Hi 👋, This is Zarif Afnan</h1>
 <h3 align="center">Web Developer | Tech Savvy | Speed Learner</h3>
@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=zarifafnan09&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C++ / PYTHON / HTML
 
 </div>
 
@@ -18,7 +18,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/zarifafnan09](https://github.com/zarifafnan09)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, TailwindCSS, ReactJS, NextJS**
+- 💬 Ask me about **Python, C++**
 
 - 📫 How to reach me **zarifafnan09@gmail.com**
 
@@ -89,7 +89,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Zarif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zarifafnan09&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Zarif's Graph](https://github-readme-activity-graph.vercel.app/graph?username=zarifafnan09&custom_title=Zarif's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
